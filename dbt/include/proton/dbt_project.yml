@@ -1,0 +1,5 @@
+name: dbt_proton
+version: 1.6.5
+config-version: 2
+
+macro-paths: ["macros"]

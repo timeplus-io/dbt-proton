@@ -1,0 +1,5 @@
+dbt-core>=1.6.5
+proton-driver>=0.2.8
+pytest
+pytest-dotenv
+dbt-tests-adapter

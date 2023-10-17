@@ -1,0 +1,12 @@
+
+fixed:
+  type: proton
+prompts:
+  host:
+    hint: 'hostname for the instance'
+    default: 'localhost'
+  port:
+    default: 8463
+    type: 'int'
+  schema:
+    hint: 'default schema that dbt will build objects in'
